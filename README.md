@@ -65,8 +65,6 @@ DevOps & Linux System Administration
 
 ## ✨ Other things
 
-- Favorite programming language: Rust. :crab:
-- Favorite technology: WebGPU.
-- Interests: breakdancing :man_dancing:, skateboarding :skateboard:.
+- Interests: Badminton, soccer, basketball, pickleball, volleyball, swimming.
 
----
+⭐ Don’t forget to leave a star if you like this project!
