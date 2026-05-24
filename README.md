@@ -4,6 +4,15 @@ Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
 Always learning. 🤟🏻
 
 <a href="https://ngotuanminh.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="teapot.gif" /></a>
+## 🚀 About 
+👨‍💻 First-year Computer Engineering student at VNU
+🛠️ Passionate about Web Development, Systems Engineering, and Automation
+🔧 Strong foundation in:
+HTML, C++, JavaScript (React, Next.js, Angular, React Native)
+Backend: Spring Boot, Node.js, PHP (Laravel, CakePHP)
+Databases: MySQL, PostgreSQL, NoSQL, Supabase
+DevOps & Linux System Administration
+🎯 Goal-oriented, detail-oriented, and always striving to write clean, scalable code.
 ## 🌈 Skills
 
 <a href="https://ngotuanminh.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
