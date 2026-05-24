@@ -1,4 +1,4 @@
-# Hi, I'm Zach :wave:
+# Hi, I'm Ngo Tuan Minh :wave:
 
 Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
 Always learning. 🤟🏻
