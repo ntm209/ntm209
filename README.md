@@ -5,7 +5,7 @@ Always learning. 🤟🏻
 
 ## 🌈 Skills
 
-<a href="https://zachnguyen.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
+<a href="https:///t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
 
 ### Programming languages
 
@@ -62,26 +62,26 @@ Always learning. 🤟🏻
 
 ---
 
-<a href="https://www.linkedin.com/in/zach-nguyen">
+<a href="https://www.linkedin.com/in/">
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://twitter.com/zach_duong">
+<a href="https://twitter.com/">
   <img height="32" align="left" alt="X" src="img/icons/x.png" />
 </a>
 
-<a href="https://paypal.me/dnguy38">
+<a href="https://paypal.me/">
   <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
 </a>
 
-<a href="https://www.buymeacoffee.com/cszach">
+<a href="https://www.buymeacoffee.com/">
   <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
 </a>
 
-<a href="https://liberapay.com/cszach">
+<a href="https://liberapay.com/">
   <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
 </a>
 
-<a href="https://dribbble.com/cszach">
+<a href="https://dribbble.com/">
   <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
