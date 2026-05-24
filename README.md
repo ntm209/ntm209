@@ -1,11 +1,13 @@
-# Hi, I'm Ngo Tuan Minh :wave:
+# Hi, I'm Ngô Tuấn Minh :wave:
 
 Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
 Always learning. 🤟🏻
 
+[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.webp)](https://ngotuanminh.com)
+
 ## 🌈 Skills
 
-<a href="https:///t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
+<a href="https://ngotuanminh.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
 
 ### Programming languages
 
@@ -62,26 +64,26 @@ Always learning. 🤟🏻
 
 ---
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/ngo-tuan-minh">
   <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
 </a>
 
-<a href="https://twitter.com/">
+<a href="https://twitter.com/ngo_tuan_minh">
   <img height="32" align="left" alt="X" src="img/icons/x.png" />
 </a>
 
-<a href="https://paypal.me/">
+<a href="https://paypal.me/ngotuanminh">
   <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/paypal.png" />
 </a>
 
-<a href="https://www.buymeacoffee.com/">
+<a href="https://www.buymeacoffee.com/ngotuanminh">
   <img height="32" align="left" alt="Buy Me a Coffee" src="img/icons/buymeacoffee.png" />
 </a>
 
-<a href="https://liberapay.com/">
+<a href="https://liberapay.com/ngotuanminh">
   <img height="32" align="left" alt="Liberapay" src="img/icons/liberapay.png" />
 </a>
 
-<a href="https://dribbble.com/">
+<a href="https://dribbble.com/ngotuanminh">
   <img height="32" align="left" alt="Dribbble" src="img/icons/dribbble.png" />
 </a>
