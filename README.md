@@ -3,8 +3,7 @@
 Multidisciplinary builder, pixel-perfectionista. The Web is an amazing platform.
 Always learning. 🤟🏻
 
-[![A photorealistic, cinematic, wide-angle computer rendering of a woman standing in a large indoor modern museum space staring at a giant LED screen displaying colorful smoke.](img/banner.webp)](https://ngotuanminh.com)
-
+<a href="https://ngotuanminh.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="teapot.gif" /></a>
 ## 🌈 Skills
 
 <a href="https://ngotuanminh.com/t" target="_blank"><img alt="A terminal window showing a rotating teapot animation drawn using ASCII characters." align="right" src="img/t.gif" /></a>
